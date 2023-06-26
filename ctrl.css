@@ -1,0 +1,38 @@
+.imglogo{
+    width: 100px;
+   }
+
+.custom-width{
+    width: 70px;
+    
+  
+
+}
+
+.imglogo1{
+   width: 60px; 
+}
+
+
+.container-round-color{
+    background-color: rgb(254,247,235);
+}
+
+.ai{
+    background-color: #bcf3ff;
+    border-radius: 20px;
+    padding: 3px;
+    margin: 3px;
+    transform: rotate(90deg);
+}
+
+
+.container-round-color2{
+    background-color: rgb(247,248,249);
+}
+
+
+
+.videosize{
+    width: 700px;
+}
