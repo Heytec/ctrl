@@ -34,5 +34,38 @@
 
 
 .videosize{
-    width: 700px;
+    width: 450px;
+}
+
+.howto{
+    background-color: rgb(233,248,238);
+}
+
+.colh{
+    height: 700px;
+}
+.adj-image{
+    width: 300px;
+}
+
+.lastsec{
+    background-color: rgb(233,248,238);
+
+}
+
+.checkimg{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.loldown{
+    margin-top: 150px;
+
+
+}
+
+.endbar{
+    background-color: rgb(2, 29, 11);
+    height: 50px;
+
 }
